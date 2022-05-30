@@ -8,13 +8,13 @@ BODY {
 	font-family: "Book Antiqua";
 }
 #header {
-	BACKGROUND: #B4CACB; MARGIN: 0px auto; WIDTH: 925px
+	BACKGROUND: #97CAEB; MARGIN: 0px auto; WIDTH: 925px
 }
 #new_header {
-	BACKGROUND: #B4CACB; MARGIN: 0px auto; 
+	BACKGROUND: #97CAEB; MARGIN: 0px auto; 
 }
 #footer {
-	BACKGROUND: #B4CACB;
+	BACKGROUND: #97CAEB;
 	HEIGHT: 80px;
 	margin-top: 0px;
 	margin-right: auto;
@@ -79,19 +79,19 @@ TD {
      HEIGHT: 100px;
 }
 a:link {
-	color: #006666;
+	color: #767679;
 	text-decoration: none;
 }
 a:visited {
-	color: #006666;
+	color: #97CAEB;
 	text-decoration: none;
 }
 a:hover {
-	color: #990000;
+	color: #767679;
 	text-decoration: none;
 }
 a:active {
-color:#FFFFFF;
+color:#97CAEB;
 text-decoration:none;
 }
 
